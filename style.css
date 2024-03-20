@@ -442,7 +442,7 @@ footer .container .tr{
     nav .hamburger #hamburger:hover{
         color: var(--menu);
     }
-    header{
+    #header{
         padding: 140px 20px;
     }
     section{
